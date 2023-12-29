@@ -24,7 +24,10 @@ This application is the back-end for the lottery system named "Xổ Số Kiến 
 
 1. Clone the repository.
 2. Install dependencies:
-3. Set up environment variables in a `.env` file, and example can be:
+```
+npm install
+```
+4. Set up environment variables in a `.env` file, and example can be:
 
 ```
 DB_URI= "mongodb://127.0.0.1:27017/lottery"
